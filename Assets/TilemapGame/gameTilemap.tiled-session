@@ -1,0 +1,96 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/48515485/Documents/comp1151prac-tilemapgame-yulongti/Assets/Tiled/TilemapGame/Dungeon Tilemap.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/48515485/Documents/comp1151prac-tilemapgame-yulongti/Assets/Tiled/Dungeon Tilemap.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -3,
+                "y": 68.5
+            }
+        },
+        "C:/Users/48515485/Documents/comp1151prac-tilemapgame-yulongti/Assets/Tiled/TilemapGame/Dungeon Tilemap.tmx": {
+            "scale": 0.68837890625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -0.7263441622924915,
+                "y": -0.7263441622925484
+            }
+        },
+        "C:/Users/48515485/Documents/comp1151prac-tilemapgame-yulongti/Assets/Tiled/TilemapGame/tilemap_packed.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/48515485/Documents/comp1151prac-tilemapgame-yulongti/Assets/Tiled/TinyDungeon.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/48515485/Documents/comp1151prac-tilemapgame-yulongti/Assets/Tiled/TinyTest.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/48515485/Documents/comp1151prac-tilemapgame-yulongti/Assets/Tiled/TinyssET.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/48515485/Documents/comp1151prac-tilemapgame-yulongti/Assets/Tiled/tilemap_packed.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Dungeon Tilemap.tmx": {
+            "scale": 0.7663085937499999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -0.6524786542627794,
+                "y": -0.6524786542627794
+            }
+        },
+        "TinyDungeon_Tilesheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilemap.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "tilemap_packed.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        }
+    },
+    "last.imagePath": "C:/Users/48515485/Documents/comp1151prac-tilemapgame-yulongti/Assets/Tiled/kenney_tiny-dungeon/Tilemap",
+    "map.fixedSize": false,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "C:/Users/48515485/Documents/comp1151prac-tilemapgame-yulongti/Assets/Tiled/TilemapGame/Dungeon Tilemap.tmx"
+    ],
+    "project": "",
+    "recentFiles": [
+        "C:/Users/48515485/Documents/comp1151prac-tilemapgame-yulongti/Assets/Tiled/TinyssET.tsx",
+        "C:/Users/48515485/Documents/comp1151prac-tilemapgame-yulongti/Assets/Tiled/TinyTest.tsx",
+        "C:/Users/48515485/Documents/comp1151prac-tilemapgame-yulongti/Assets/Tiled/TinyDungeon.tsx",
+        "C:/Users/48515485/Documents/comp1151prac-tilemapgame-yulongti/Assets/Tiled/TilemapGame/Dungeon Tilemap.tmx",
+        "C:/Users/48515485/Documents/comp1151prac-tilemapgame-yulongti/Assets/Tiled/TilemapGame/tilemap_packed.tsx",
+        "Dungeon Tilemap.tmx",
+        "tilemap_packed.tsx",
+        "C:/Users/48515485/Documents/comp1151prac-tilemapgame-yulongti/Assets/Tiled/Dungeon Tilemap.tmx",
+        "tilemap.tsx",
+        "TinyDungeon_Tilesheet.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
